@@ -1,0 +1,19 @@
+E:\HND\C#\Ayubo Travels\Ayubo Travels\bin\Debug\Ayubo Travels.exe.config
+E:\HND\C#\Ayubo Travels\Ayubo Travels\bin\Debug\Ayubo Travels.exe
+E:\HND\C#\Ayubo Travels\Ayubo Travels\bin\Debug\Ayubo Travels.pdb
+E:\HND\C#\Ayubo Travels\Ayubo Travels\obj\Debug\Ayubo Travels.csprojResolveAssemblyReference.cache
+E:\HND\C#\Ayubo Travels\Ayubo Travels\obj\Debug\Ayubo_Travels.Form1.resources
+E:\HND\C#\Ayubo Travels\Ayubo Travels\obj\Debug\Ayubo_Travels.Properties.Resources.resources
+E:\HND\C#\Ayubo Travels\Ayubo Travels\obj\Debug\Ayubo Travels.csproj.GenerateResource.Cache
+E:\HND\C#\Ayubo Travels\Ayubo Travels\obj\Debug\Ayubo Travels.exe
+E:\HND\C#\Ayubo Travels\Ayubo Travels\obj\Debug\Ayubo Travels.pdb
+E:\HND\C#\Ayubo Travels\Ayubo Travels\obj\Debug\Ayubo_Travels.Form2.resources
+E:\HND\C#\Ayubo Travels\Ayubo Travels\obj\Debug\Ayubo_Travels.Form3.resources
+E:\HND\C#\Ayubo Travels\Ayubo Travels\obj\Debug\Ayubo_Travels.Form4.resources
+E:\HND\C#\Ayubo Travels\Ayubo Travels\obj\Debug\Ayubo_Travels.Form5.resources
+E:\HND\C#\Ayubo Travels\Ayubo Travels\obj\Debug\Ayubo_Travels.Form6.resources
+E:\HND\C#\Ayubo Travels\Ayubo Travels\obj\Debug\Ayubo_Travels.Form7.resources
+E:\HND\C#\Ayubo Travels\Ayubo Travels\obj\Debug\Ayubo_Travels.Form8.resources
+E:\HND\C#\Ayubo Travels\Ayubo Travels\obj\Debug\Ayubo_Travels.Form9.resources
+E:\HND\C#\Ayubo Travels\Ayubo Travels\obj\Debug\Ayubo_Travels.MainForm.resources
+E:\HND\C#\Ayubo Travels\Ayubo Travels\obj\Debug\Ayubo_Travels.Login.resources
